@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About Shopping List App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Web App stores and Lists down the grocery items you want. It is a Single Page Web App and make use of Routing to Route to About Section.
 
 ## Available Scripts
 
